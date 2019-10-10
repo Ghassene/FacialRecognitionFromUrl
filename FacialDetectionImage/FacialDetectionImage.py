@@ -60,6 +60,5 @@ def detectFaces(url):
     for img in listOfImages:
         detectface(img)
 
-detectFaces('https://www.europe1.fr/societe/les-photos-de-classes-des-cliches-qui-ont-bien-evolues-depuis-ceux-de-nos-arrieres-grands-parents-3894590')
-detectFaces('https://choosemycompany.com/fr/recrutement/alan-allman/infos')
+
 detectFaces('https://fr.wikipedia.org/wiki/Friends')
